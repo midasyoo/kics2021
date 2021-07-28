@@ -9,18 +9,18 @@
 <hr/>
 
 ### EX. 1: Image Filtering
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Seong-heum/kics2021/blob/main/ex01.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nRaEBVNTzxDLjRyc4OU3-kXpunkd-Cll?usp=sharing)
 
 ### EX. 2: Camera Calibration
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Seong-heum/kics2021/blob/main/ex02.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1I8aRgGesGNLIjpmRFeCcjimeDaCgk9g3?usp=sharing)
 
 ### EX. 3: Visual features
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Seong-heum/kics2021/blob/main/ex03.ipynb)
+[![Open In Colab](https://colab.research.google.com/drive/1-akVG4V9HGUE1ZjNOAy-eZLKxkRUb0Kz?usp=sharing)
 
 ### EX. 4: Machine Learning
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Seong-heum/kics2021/blob/main/ex04.ipynb)
+[![Open In Colab](https://colab.research.google.com/drive/1Y-lo6NH0vcLTf3-G_yZidZtHXZJO4W7Z?usp=sharing)
 
 ### EX. 5: Deep Learning
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Seong-heum/kics2021/blob/main/ex05.ipynb)
+[![Open In Colab](https://colab.research.google.com/drive/1aQObGA7VwNfiaoJEeIMmUKxe8yHlD4lM?usp=sharing)
 
 <hr/>
