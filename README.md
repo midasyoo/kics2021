@@ -9,7 +9,7 @@
 <hr/>
 
 ### EX. 1: Image Filtering
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mBC2boR_e7LzxC3FSOAjHdYtrIJjNMdu?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nRaEBVNTzxDLjRyc4OU3-kXpunkd-Cll#scrollTo=Uz2-Y9vEA8PU)
 
 ### EX. 2: Camera Calibration
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rFCDCEgSm1iMO4z7n4iOXDNtD4AEwni6?usp=sharing)
