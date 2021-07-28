@@ -15,12 +15,12 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1I8aRgGesGNLIjpmRFeCcjimeDaCgk9g3?usp=sharing)
 
 ### EX. 3: Visual features
-[![Open In Colab](https://colab.research.google.com/drive/1-akVG4V9HGUE1ZjNOAy-eZLKxkRUb0Kz?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-akVG4V9HGUE1ZjNOAy-eZLKxkRUb0Kz?usp=sharing)
 
 ### EX. 4: Machine Learning
-[![Open In Colab](https://colab.research.google.com/drive/1Y-lo6NH0vcLTf3-G_yZidZtHXZJO4W7Z?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y-lo6NH0vcLTf3-G_yZidZtHXZJO4W7Z?usp=sharing)
 
 ### EX. 5: Deep Learning
-[![Open In Colab](https://colab.research.google.com/drive/1aQObGA7VwNfiaoJEeIMmUKxe8yHlD4lM?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aQObGA7VwNfiaoJEeIMmUKxe8yHlD4lM?usp=sharing)
 
 <hr/>
